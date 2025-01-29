@@ -13,9 +13,12 @@
 # testing
 /coverage
 
-# next.js
+# Next.js
 /.next/
 /out/
+
+# Netlify
+.netlify/
 
 # production
 /build
